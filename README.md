@@ -3,8 +3,9 @@ Ce projet a pour but de vous faire découvrir le merveilleux monde de la virtual
 
 # To Do :
 
-- [X] debian basic installation
-- [X] enabling ssh on port 4242
+- [X] Debian installation
+- [X] Configuring `ssh`
+- [X] Configuring `ufw` 
 - [X] sudoers file
 - [ ] strong password policy 
 - [ ] `monitoring.sh` script
