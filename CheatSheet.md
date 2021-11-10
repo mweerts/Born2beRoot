@@ -3,7 +3,7 @@
 **Command** | **Purpose**
 :------------: | -------------
 `visudo` | Edit **/etc/sudoers**
-Content in the first column | Content in the second column
+`systemctl <keyword> <service> `  | Manage services : `start` `stop` `restart`. Get status : `status`. Run @ boot : `enable` `disable`
 
 <br>
 
