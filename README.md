@@ -3,4 +3,6 @@ Ce projet a pour but de vous faire découvrir le merveilleux monde de la virtual
 
 # Useful Ressources :
 
+
+## Sudo configuration
 https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/
