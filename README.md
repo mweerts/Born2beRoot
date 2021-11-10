@@ -1,6 +1,13 @@
 # Born2beRoot
 Ce projet a pour but de vous faire découvrir le merveilleux monde de la virtualisation.
 
+# To Do :
+
+- [X] sudoers file
+- [ ] strong password policy 
+- [ ] `monitoring.sh` script
+
+
 # Useful Ressources :
 
 
