@@ -14,6 +14,7 @@
 
 ### LVM
 https://techencyclopedia.wordpress.com/2018/03/11/how-to-install-debian-8-by-manually-creating-lvm-linux-partitions/
+https://www.informaticar.net/how-to-manually-partition-and-encrypt-kali-linux/
 
 #### Sudo configuration
 https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/
