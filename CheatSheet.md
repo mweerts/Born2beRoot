@@ -5,6 +5,8 @@
 `visudo` | Edit **/etc/sudoers**
 `systemctl <keyword> <service> `  | Manage services : `start` `stop` `restart`. Get status : `status`. Run @ boot : `enable` `disable`
 `service --status-all `  | Get actives (`+`) and inactives (`-`) services from `/etc/init.d`
+`ls /usr/bin/*session`  | Check if GUI is installed.
+
 
 <br>
 
