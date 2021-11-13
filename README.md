@@ -12,6 +12,8 @@
 
 # Useful Ressources :
 
+### LVM
+https://techencyclopedia.wordpress.com/2018/03/11/how-to-install-debian-8-by-manually-creating-lvm-linux-partitions/
 
 #### Sudo configuration
 https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/
