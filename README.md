@@ -8,7 +8,9 @@
 - [X] sudoers file
 - [X] strong password policy 
 - [X] `monitoring.sh` script
+
 <br>
+
 - [X] wordpress **(bonus)**
 - [X] LVM **(bonus)**
 - [ ] Any useful service **(bonus)** 
