@@ -6,9 +6,12 @@
 - [X] Configuring `ssh`
 - [X] Configuring `ufw` 
 - [X] sudoers file
-- [ ] strong password policy 
-- [ ] `monitoring.sh` script
+- [X] strong password policy 
+- [X] `monitoring.sh` script
 
+- [X] wordpress **bonus**
+- [X] LVM **bonus**
+- [] Any useful service **(bonus)** 
 
 # Useful Ressources :
 
