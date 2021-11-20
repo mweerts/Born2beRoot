@@ -13,7 +13,7 @@
 
 - [X] wordpress **(bonus)**
 - [X] LVM **(bonus)**
-- [ ] Any useful service **(bonus)** 
+- [X] Any useful service **(bonus)** : FTP server
 
 # Useful Ressources :
 
