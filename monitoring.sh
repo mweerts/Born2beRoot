@@ -12,7 +12,7 @@ LvmUse=$(if [ $LvmNbr > 0 ]; then echo 'Yes'; else echo 'No'; fi)
 TCPConnections=$(cat /proc/net/sockstat | awk '$1=="TCP:" {print $3}')
 UsersLog=$(users | wc -w)
 NetworkIP=$(hostname -I)' ('$(ip link show | awk '$1=="link/ether" {print $2}')')'
-Sudo=$(cat /var/log/auth.log | grep sudo: | grep COMMAND | wc -l) 
+Sudo=$(journalctl _COMM=sudo | grep COMMAND | wc -l) 
 
 wall "	#Architecture: $Architecture
 	#CPU Physical: $pCPU
