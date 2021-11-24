@@ -24,3 +24,5 @@
 `/dev/LVMGroup` | Contain symbolic links to logical disks.
 `/etc/vsftpd.conf` | FTP server config file.
 `/etc/pam.d/common-password` | Password policies.
+`/etc/passwd` | User list
+`/etc/group` | Group list
