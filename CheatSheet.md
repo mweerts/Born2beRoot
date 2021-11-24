@@ -23,3 +23,4 @@
 `/etc/hosts` | Map *hosts* with an *ip address*
 `/dev/LVMGroup` | Contain symbolic links to logical disks.
 `/etc/vsftpd.conf` | FTP server config file.
+`/etc/pam.d/common-password` | Password policies.
