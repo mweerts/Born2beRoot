@@ -12,7 +12,7 @@
 `sudo adduser` | Create user
 `sudo groupadd` | Create group
 `sudo usermod -aG group_name your_username` | Add an user to a group.
-
+`ncftp -u username hostname` | BONUS : Connection ftp 
 <br>
 
 # Useful Paths & Files
