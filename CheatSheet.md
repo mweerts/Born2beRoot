@@ -10,6 +10,7 @@
 `lvrename /dev/vg02/lvold /dev/vg02/lvnew`  | Rename volume group.
 `sudo cryptsetup luksChangeKey /dev/sda5` | Change crypted disk password.
 `sudo adduser` | Create user
+`sudo groupadd` | Create group
 `sudo usermod -aG group_name your_username` | Add an user to a group.
 
 <br>
